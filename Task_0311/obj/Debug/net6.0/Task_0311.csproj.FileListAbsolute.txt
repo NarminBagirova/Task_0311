@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\Task_0311\Task_0311\bin\Debug\net6.0\Task_0311.exe
+C:\Users\ACER\source\repos\Task_0311\Task_0311\bin\Debug\net6.0\Task_0311.deps.json
+C:\Users\ACER\source\repos\Task_0311\Task_0311\bin\Debug\net6.0\Task_0311.runtimeconfig.json
+C:\Users\ACER\source\repos\Task_0311\Task_0311\bin\Debug\net6.0\Task_0311.dll
+C:\Users\ACER\source\repos\Task_0311\Task_0311\bin\Debug\net6.0\Task_0311.pdb
+C:\Users\ACER\source\repos\Task_0311\Task_0311\obj\Debug\net6.0\Task_0311.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Task_0311\Task_0311\obj\Debug\net6.0\Task_0311.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Task_0311\Task_0311\obj\Debug\net6.0\Task_0311.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Task_0311\Task_0311\obj\Debug\net6.0\Task_0311.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Task_0311\Task_0311\obj\Debug\net6.0\Task_0311.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Task_0311\Task_0311\obj\Debug\net6.0\Task_0311.dll
+C:\Users\ACER\source\repos\Task_0311\Task_0311\obj\Debug\net6.0\refint\Task_0311.dll
+C:\Users\ACER\source\repos\Task_0311\Task_0311\obj\Debug\net6.0\Task_0311.pdb
+C:\Users\ACER\source\repos\Task_0311\Task_0311\obj\Debug\net6.0\Task_0311.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Task_0311\Task_0311\obj\Debug\net6.0\ref\Task_0311.dll
